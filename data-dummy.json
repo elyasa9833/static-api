@@ -1,37 +1,37 @@
 [
     {
         "id": 1,
-        "url": "https://picsum.photos/200",
+        "imageUrl": "https://picsum.photos/200",
         "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
     },
     {
         "id": 2,
-        "url": "https://picsum.photos/200",
+        "imageUrl": "https://picsum.photos/200",
         "desc": "Adipisci quos ea fuga libero rerum error esse quidem temporibus nihil ipsam"
     },
     {
         "id": 3,
-        "url": "https://picsum.photos/200",
+        "imageUrl": "https://picsum.photos/200",
         "desc": "minus ex cum atque eius explicabo harum voluptate? Sunt quia nostrum repellendus dolorem fugiat quidem et eos nesciunt ut vitae, voluptatem"
     },
     {
         "id": 4,
-        "url": "https://picsum.photos/200",
+        "imageUrl": "https://picsum.photos/200",
         "desc": "illo libero necessitatibus labore commodi ullam dolor! Quia quis eligendi nihil debitis distinctio aspernatur in?"
     },
     {
         "id": 5,
-        "url": "https://picsum.photos/200",
+        "imageUrl": "https://picsum.photos/200",
         "desc": "Magni, illum natus nesciunt, error, corporis quibusdam cumque magnam debitis reprehenderit itaque nihil saepe soluta sed iure eaque."
     },
     {
         "id": 6,
-        "url": "https://picsum.photos/200",
+        "imageUrl": "https://picsum.photos/200",
         "desc": "Maiores repellat perferendis ullam aperiam eveniet reprehenderit illo inventore facere soluta impedit corrupti quisquam deserunt"
     },
     {
         "id": 7,
-        "url": "https://picsum.photos/200",
+        "imageUrl": "https://picsum.photos/200",
         "desc": "dolores, aliquam officia, est fugit voluptatem recusandae qui dolore omnis esse."
     }
 ]
